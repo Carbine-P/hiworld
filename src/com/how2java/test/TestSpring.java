@@ -13,7 +13,7 @@ import com.how2java.pojo.Category;
 public class TestSpring {
     @Autowired
     Category c;
-
+//gaidong
     @Test
     public void test(){
         System.out.println(c.getName());
